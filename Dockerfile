@@ -31,5 +31,8 @@ RUN wget https://getcomposer.org/installer -O composer-setup.php && \
     mv composer.phar /usr/local/bin/composer && \
     rm -rf zeromq-* jupyter-php*
 
+VOLUME /home/jovyan
+
+
 # Reset user from jupyter/base-notebook
 USER $NB_USER
