@@ -1,4 +1,8 @@
-# Jupyter Notebook with Python3 and PHP kernel 
+# Jupyter Notebook with Python3 and PHP kernel
+
+[![](https://images.microbadger.com/badges/image/fauguste/jupyter-php.svg)](https://microbadger.com/images/fauguste/jupyter-php "Get your own image badge on microbadger.com")
+
+[![](https://images.microbadger.com/badges/version/fauguste/jupyter-php.svg)](https://microbadger.com/images/fauguste/jupyter-php "Get your own version badge on microbadger.com")
 
 ## What it Gives You
 
