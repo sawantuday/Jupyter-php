@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -yq --no-install-recommends \
     pandoc \
     libxrender1 \
     inkscape \
-    php-cli php-dev php-pear php-zip \
+    php-cli php-dev php-pear php-zip php-mysql\
     pkg-config \
     && apt-get clean && \
     rm -rf /var/lib/apt/lists/*
